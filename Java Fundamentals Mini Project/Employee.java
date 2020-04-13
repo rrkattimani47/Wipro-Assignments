@@ -1,3 +1,4 @@
+//Use run configuration -> arguments to run this program
 import java.util.Scanner;
 public class Employee {
 	 private int emp_id[] = { 1001, 1002, 1003, 1004, 1005, 1006, 1007 };
