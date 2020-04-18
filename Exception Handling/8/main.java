@@ -3,7 +3,7 @@ Display proper error messages.
 
 The program must exit gracefully after displaying the error message in case the arguments passed are not proper.
  (Hint : Create a user defined exception class for handling errors.)*/
- 
+ //Run using run congiguration, type name and age in the arguments 
  public class Exception8 {
 
 	public static void main(String[] args)throws InvalidAgeException {
