@@ -1,4 +1,4 @@
-package com.w3epic.wiprotraining.assignment1;
+
 
 public class Stringmanip {
 		String datum; 
